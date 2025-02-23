@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student at INAI with strong skills in Java, Python, and JavaScript. 💻<br> I have good soft skills and previously worked as a Java mentor at a university. 🎓<br> Currently, I'm working at TodAI. 🚀
+I'm a student at INAI with strong skills in Java, Python, and JavaScript. 💻<br> I have good soft skills and previously worked as a Java mentor at a university. 🎓<br> Currently, I'm intern. 🚀
 
 
 # 💻 Tech Stack:
