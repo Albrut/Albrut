@@ -1,6 +1,6 @@
 <!-- 🎨 Pixel art banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Albrut/Albrut/main/banner.gif" alt="Pixel Coding Banner" />
+  <img src="https://raw.githubusercontent.com/Albrut/Albrut/main/sr2712ab0b35ecd.gif" alt="Pixel Coding Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Albrut 👋</h1>
